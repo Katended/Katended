@@ -44,11 +44,13 @@ katende-david-01627461)
    
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Katended&show_icons=true&locale=en&theme=light" alt="Katended" /></p>
-   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Katended&theme=light&hide_border=false)<br/>
-
-   
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Katended" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katended&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
+    
    ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Katended)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
