@@ -6,16 +6,15 @@
 ```javascript
 const me = {
     pronouns: "He" | "Him",
-    workingon:currently learning web development at **Microverse**,
-    askMeAbout: ["web dev", "tech", "app dev","Christianity"],
-   
-           
+    workingon:Web development at **Microverse**,
+    askMeAbout: ["web dev", "tech", "app dev","Christianity"],          
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Responsive Web Solutions",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
 - 📫 Get in touch with me at [![Gmail Badge](https://img.shields.io/badge/-katended@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katended@gmail.com)](mailto:katended@gmail.com)
 
 ## 🌐 Socials:
