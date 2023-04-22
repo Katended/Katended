@@ -7,7 +7,7 @@
 - 💬 Ask me about **Vuejs, PHP,Laravel**
 - 📫 Get in touch with me at **katended@gmail.com**
 - 📄 Know about my experiences: [my Portfolio]([https://github.com/Katended])
-- ⚡ Fun fact **Despite describing myself, I love deep well curated work**
+- ⚡ Fun fact **I love deep work**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
