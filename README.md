@@ -6,7 +6,7 @@
 ```javascript
 const me = {
     pronouns: "He" | "Him",
-    workingon: [[my Portfolio]([https://github.com/Katended])],
+    workingon: [my Portfolio]([https://github.com/Katended])],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
