@@ -5,34 +5,33 @@
 - 🔭 I’m currently working on [my Portfolio]([https://github.com/Katended])
 - 🌱 I’m currently learning web development **Microverse**
 - 💬 Ask me about **Vuejs, PHP,Laravel**
-- 📫 Get in touch with me at **katended@gmail.com**
+- 📫 Get in touch with me at [![Gmail Badge](https://img.shields.io/badge/-katended@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katended@gmail.com)](mailto:katended@gmail.com)
 - 📄 Know about my experiences: [my Portfolio]([https://github.com/Katended])
-- ⚡ Fun fact **I love deep work**
+- ⚡ Fun fact **I love deep work and sports**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
-katende-david-01627461) 
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katende-david-01627461/)](www.linkedin.com/in/
+katende-david-01627461)
 
 # 💻 Tech Stack:
 
 <h3>Languages<h3>
   
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<hr>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 <h3>Frameworks, Platforms and Libraries<h3>
    
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
 <h3>Databases<h3>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 <hr>
    
