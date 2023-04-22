@@ -1,4 +1,4 @@
-<span><img width="300px" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" height="130px" style="float:left;" />    
+<span><img width="300px" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" height="110px" style="float:left;" />    
 #I am David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:</span>
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 ```javascript
