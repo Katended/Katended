@@ -1,6 +1,6 @@
 <p align="left"><img width=2%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
     
-# Hi! I am David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
+#I am David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
 ```javascript
 const me = {
@@ -44,9 +44,9 @@ katende-david-01627461)
    
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Katended&show_icons=true&locale=en&theme=dark" alt="Katended" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Katended&show_icons=true&locale=en&theme=light" alt="Katended" /></p>
    
-![](https://github-readme-streak-stats.herokuapp.com/?user=Katended&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Katended&theme=light&hide_border=false)<br/>
 
    
    ## 🐦 Latest Tweet
