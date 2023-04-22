@@ -1,6 +1,4 @@
-## Hi there!
-
-<h1 align="center">👋, David 👉👨‍🏫</h1>
+<h1 align="center">Hi there! 👋, David 👉👨‍🏫</h1>
 
 
 ```javascript
