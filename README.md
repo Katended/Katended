@@ -15,8 +15,7 @@ const me = {
 - 📫 Get in touch with me at [![Gmail Badge](https://img.shields.io/badge/-katended@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katended@gmail.com)](mailto:katended@gmail.com)
 
 ## 🌐 Socials:
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katende-david-01627461/)](www.linkedin.com/in/
-katende-david-01627461)
+![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katende-david-01627461/)](www.linkedin.com/in/katende-david-01627461)
 
 # 💻 Tech Stack:
 
