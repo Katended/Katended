@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋, David 👉👨‍🏫</h1>
+<h1 align="center"><p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> 👋, David 👉👨‍🏫</h1>
 
 
 ```javascript
