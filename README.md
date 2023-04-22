@@ -6,32 +6,17 @@
 ```javascript
 const me = {
     pronouns: "He" | "Him",
-    workingon: [my Portfolio](https://github.com/Katended)],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    workingon:currently learning web development at **Microverse**,
+    askMeAbout: ["web dev", "tech", "app dev","Christianity"],
+   
+           
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Responsive Web Solutions",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-
-- 🔭 I’m currently working on [my Portfolio]([https://github.com/Katended])
-- 🌱 I’m currently learning web development **Microverse**
-- 💬 Ask me about **Vuejs, PHP,Laravel**
 - 📫 Get in touch with me at [![Gmail Badge](https://img.shields.io/badge/-katended@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katended@gmail.com)](mailto:katended@gmail.com)
-- 📄 Know about my experiences: [my Portfolio]([https://github.com/Katended])
-- ⚡ Fun fact **I love deep work and sports**
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katende-david-01627461/)](www.linkedin.com/in/
