@@ -1,4 +1,5 @@
-<h1 align="center"><p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> 👋, David 👉👨‍🏫</h1>
+<p align="left"><img width=5%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+  </h1> I am David </h1>
 
 
 ```javascript
