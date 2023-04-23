@@ -20,7 +20,7 @@ const me = {
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <h3>Languages<h3>
   
@@ -47,13 +47,12 @@ const me = {
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQLSERVER](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=sqlserver)
 
-<hr>
-  
+ 
     
     
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ###  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Katended" alt="Gift's LangStat" />
