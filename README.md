@@ -49,7 +49,7 @@ const me = {
 [![](https://gtce.itsvg.in/api?username=Katended)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
    
 <!--
 **Katended/Katended** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
