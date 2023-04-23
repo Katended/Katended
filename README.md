@@ -51,12 +51,8 @@ const me = {
  
     
     
-<a href="#">
-  <img src="https://visitcount.itsvg.in/api?id=Katended&label=Profile%20Views&pretty=false" />
-</a>  
-    
-    
-    
+
+   
 ## 📊 GitHub Stats:
 
  ###  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
@@ -70,7 +66,11 @@ const me = {
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
-   
+ 
+    
+<a href="#">
+  <img src="https://visitcount.itsvg.in/api?id=Katended&label=Profile%20Views&pretty=false" />
+</a>     
 <!--
 **Katended/Katended** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
