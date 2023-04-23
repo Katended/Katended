@@ -45,8 +45,6 @@ const me = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katended&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
     
-   ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Katended)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
