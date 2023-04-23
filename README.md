@@ -1,6 +1,6 @@
 <div style="vertical-align: middle;"><span><img width="290px" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" height="90px" style="float:left;" /></span> </div>
 
-## I am David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">I am David Nice to Meet You.:blush:
 
 
 ```javascript
