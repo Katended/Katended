@@ -45,6 +45,7 @@ const me = {
 <h3>Databases<h3>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQLSERVER](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=sqlserver)
 
 <hr>
   
