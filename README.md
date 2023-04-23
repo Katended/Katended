@@ -49,9 +49,9 @@ const me = {
 ![SQLSERVER](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=sqlserver)
 
  
-<a href="#">
-  <img src="https://visitcount.itsvg.in/api?id=Katended&label=Profile%20Views&color=3&icon=5&pretty=false" />
-</a>    
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Katended&label=Profile%20Views&pretty=false" />
+</a>   
     
 ## 📊 GitHub Stats:
 
