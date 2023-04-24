@@ -17,7 +17,7 @@ const me = {
 
 
 
-- 📫 Get in touch with me at [![Gmail Badge](https://img.shields.io/badge/-katended@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katended@gmail.com)](mailto:katended@gmail.com)
+- 📫 Dont be a stranger! [![Gmail Badge](https://img.shields.io/badge/-katended@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katended@gmail.com)](mailto:katended@gmail.com)
 
 
 
