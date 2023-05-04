@@ -47,11 +47,6 @@ const me = {
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQLSERVER](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=sqlserver)
-
- 
-    
-    
-
    
 ## 📊 GitHub Stats:
 [![Katended's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Katended&theme=cottoncandy)]
