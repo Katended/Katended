@@ -54,7 +54,7 @@ const me = {
 
    
 ## 📊 GitHub Stats:
-[![Katended's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Katended&theme=cottoncandy)]()
+[![Katended's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Katended&theme=cottoncandy)]
     
  ###  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
