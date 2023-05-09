@@ -6,7 +6,7 @@
 ```javascript
 const me = {
     pronouns: "He" | "Him",
-    workingon:Web development at **Microverse**,
+    workingon:Mordern Web development at **Microverse**,
     askMeAbout: ["web dev", "tech", "app dev","Christianity"],          
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
