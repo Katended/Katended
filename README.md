@@ -7,7 +7,7 @@
 const me = {
     pronouns: "He" | "Him",
     workingon:Mordern Web development at **Microverse**,
-    askMeAbout: ["web dev", "tech", "app dev","Christianity"],          
+    askMeAbout: ["web tech"],          
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Responsive Web Solutions",
