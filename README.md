@@ -47,6 +47,9 @@ const me = {
 - ❤️ I love solving algorithmss. 
 - 💻 I'm available and also open to new opportunities. <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
+<a href="#">
+  <img src="https://visitcount.itsvg.in/api?id=Katended&label=Profile%20Views&pretty=false" />
+</a>
 
 ## 📊 GitHub Stats:
 [![Katended's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Katended&theme=cottoncandy)]
@@ -64,9 +67,7 @@ const me = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
  
     
-<a href="#">
-  <img src="https://visitcount.itsvg.in/api?id=Katended&label=Profile%20Views&pretty=false" />
-</a>     
+     
 <!--
 **Katended/Katended** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
