@@ -14,7 +14,7 @@ const me = {
 };
 ```
 
--## 📫 Dont be a stranger!
+## 📫 Dont be a stranger!
 - Email : katended@gmail.com
 - Linkedin : [katende-david](https://www.linkedin.com/in/abenezer-addisu)
 - Portfolio : [katende-david](https://katended.github.io/Mobile-First-Portfolio-Project/Index.html)
@@ -42,8 +42,7 @@ const me = {
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-  ## What I'm doing now
-
+## What I'm doing now
 - 🌱 Improving my developer skills everyday
 - ❤️ I love solving algorithmss. 
 - 💻 I'm available and also open to new opportunities. <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
@@ -52,16 +51,16 @@ const me = {
 ## 📊 GitHub Stats:
 [![Katended's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Katended&theme=cottoncandy)]
 
- ###  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
+##  My GitHub Stats 
+<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Katended" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katended&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
  
     
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
  
     
