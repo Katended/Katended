@@ -45,7 +45,7 @@ const me = {
 ## What I'm doing now?
 - 🌱 Improving my developer skills everyday
 - ❤️ I love solving algorithms.
-- 💻 I'm available and also open to new opportunities. <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
+- 💻 I'm available and also open to new opportunities.
 
 
 <a href="#">
