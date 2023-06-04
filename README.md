@@ -2,7 +2,6 @@
 
 ## I am David Nice to Meet You.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-
 ```javascript
 const me = {
     pronouns: "He" | "Him",
@@ -15,11 +14,10 @@ const me = {
 };
 ```
 
--### 📫 Dont be a stranger!
+-## 📫 Dont be a stranger!
 - Email : katended@gmail.com
 - Linkedin : [katende-david](https://www.linkedin.com/in/abenezer-addisu)
-- Portfolio : [katende-david]([https://abenezer-addisu.github.io/portfolio](https://katended.github.io/Mobile-First-Portfolio-Project/Index.html)
-
+- Portfolio : [katende-david](https://katended.github.io/Mobile-First-Portfolio-Project/Index.html)
 
 ## 💻 Tech Stack:
  🌐 &nbsp;
@@ -46,17 +44,14 @@ const me = {
 
   ## What I'm doing now
 
-
 - 🌱 Improving my developer skills everyday
-
 - ❤️ I love solving algorithmss. 
-
 - 💻 I'm available and also open to new opportunities. <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
 
 ## 📊 GitHub Stats:
 [![Katended's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Katended&theme=cottoncandy)]
-    
+
  ###  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
