@@ -47,6 +47,7 @@ const me = {
 - ❤️ I love solving algorithmss. 
 - 💻 I'm available and also open to new opportunities. <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
+
 <a href="#">
   <img src="https://visitcount.itsvg.in/api?id=Katended&label=Profile%20Views&pretty=false" />
 </a>
