@@ -42,9 +42,9 @@ const me = {
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## What I'm doing now
+## What I'm doing now?
 - 🌱 Improving my developer skills everyday
-- ❤️ I love solving algorithmss. 
+- ❤️ I love solving algorithms.
 - 💻 I'm available and also open to new opportunities. <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
 
