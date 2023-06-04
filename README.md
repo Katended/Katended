@@ -15,39 +15,45 @@ const me = {
 };
 ```
 
+-### 📫 Dont be a stranger!
+- Email : katended@gmail.com
+- Linkedin : [katende-david](https://www.linkedin.com/in/abenezer-addisu)
+- Portfolio : [katende-david]([https://abenezer-addisu.github.io/portfolio](https://katended.github.io/Mobile-First-Portfolio-Project/Index.html)
 
 
-- 📫 Dont be a stranger! [![Gmail Badge](https://img.shields.io/badge/-katended@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katended@gmail.com)](mailto:katended@gmail.com)
+## 💻 Tech Stack:
+ 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Webpack](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![VUEJS](https://img.shields.io/badge/vuejs-%2300C4CC.svg?style=for-the-badge&logo=vuejs&logoColor=white)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLSERVER](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=sqlserver)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+  ## What I'm doing now
 
 
+- 🌱 Improving my developer skills everyday
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- ❤️ I love solving algorithmss. 
 
-<h3>Languages<h3>
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
+- 💻 I'm available and also open to new opportunities. <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
-    
-    
-<h3>Frameworks, Platforms and Libraries<h3>
-   
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Webpack](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![VUEJS](https://img.shields.io/badge/vuejs-%2300C4CC.svg?style=for-the-badge&logo=vuejs&logoColor=white)
-  
-    
-    
-<h3>Databases<h3>
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLSERVER](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=sqlserver)
-   
 ## 📊 GitHub Stats:
 [![Katended's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Katended&theme=cottoncandy)]
     
