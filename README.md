@@ -21,7 +21,7 @@ const me = {
 
 
 
-## 💻 Tech Stack:
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 <h3>Languages<h3>
   
