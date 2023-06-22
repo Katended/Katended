@@ -43,8 +43,8 @@ const me = {
 
 ## What I'm doing now?
 - 🌱 Improving my developer skills everyday
-- ❤️ I love solving algorithms.
-- 💻 I'm available and also open to new opportunities.
+- ❤️ I love solving algorithmic problems.
+- 💻 I'm available and open to new opportunities.
 
 
 <a href="#">
