@@ -42,7 +42,7 @@ const me = {
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## What I'm doing now?
-- 🌱 Improving my developer skills everyday
+- 🌱 Improving my developer skills everyday.
 - ❤️ I love solving algorithmic problems.
 - 💻 I'm available and open to new opportunities.
 
