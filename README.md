@@ -18,7 +18,7 @@ const me = {
 
 ## 📫 Dont be a stranger!
 - Email : katended@gmail.com
-- Linkedin : [Katende David](https://www.linkedin.com/in/katendedavid)
+- Linkedin : [katendedavid](https://www.linkedin.com/in/katendedavid)
 - Portfolio : [katende-david](https://katended.github.io/Mobile-First-Portfolio-Project/Index.html)
 
 ## 💻 Tech Stack:
