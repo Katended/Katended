@@ -1,5 +1,3 @@
-![mylogo](https://github.com/Katended/Katended/assets/43292406/540676b0-f537-4557-bb77-3b90b229bc0f)
-
 <div style="vertical-align: middle;"><span><img width="290px" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" height="90px" style="float:left;" /></span> </div>
 
 ## I am David Nice to Meet You.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -18,7 +16,7 @@ const me = {
 
 ## 📫 Dont be a stranger!
 - Email : katended@gmail.com
-- Linkedin : [katende-david](https://www.linkedin.com/in/abenezer-addisu)
+- Linkedin : [katende-david](https://www.linkedin.com/in/katende-david)
 - Portfolio : [katende-david](https://katended.github.io/Mobile-First-Portfolio-Project/Index.html)
 
 ## 💻 Tech Stack:
