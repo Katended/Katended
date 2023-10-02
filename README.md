@@ -11,7 +11,7 @@ const me = {
     askMeAbout: ["web tech"],          
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    What I ma working on: "Advanced RoR",
+    What I am working on: "Advanced RoR and a React Chatgpt App",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
